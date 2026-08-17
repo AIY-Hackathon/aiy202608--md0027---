@@ -1,3 +1,25 @@
+<div align="center">
+
+# 🏆 AIY 黑客松 2026 深圳站 · 组委会官方存档
+
+<p>
+  <img alt="团队编号" src="https://img.shields.io/badge/团队编号-MD0027-2B6CB0?style=for-the-badge">
+  <img alt="组别" src="https://img.shields.io/badge/组别-%E5%88%9D%E4%B8%AD%E7%BB%84_MD-2B6CB0?style=for-the-badge">
+</p>
+
+**队名：（未署名，待补全）**　|　**作品：AI智能声伴**
+
+> 通过 AI 与用户进行对话，帮助老年用户丰富自身情感；支持多语种多方言转换等
+
+本项目为 AIY 黑客松参赛作品，作品归团队所有；AIY 组委会仅作收录与展示。
+Fork 自选手原始仓库：[zhongziyu-maker/aiy202608--md0027---](https://github.com/zhongziyu-maker/aiy202608--md0027---)
+
+</div>
+
+---
+
+<!-- 以下为选手提交的原始 README 内容 -->
+
 项⽬名：AI智能声伴
 
 简介：项目背景：人口老龄化严重
